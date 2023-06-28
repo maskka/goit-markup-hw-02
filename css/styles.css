@@ -18,13 +18,13 @@ body {
   background-color: #ffffff;
 }
 
-/**-------------------------------Header-----------------------------------**/
+/**-------------------------------header-----------------------------------**/
 
-.Header {
+.header {
 }
-.Header-navigation {
+.header-navigation {
 }
-.Header-logo {
+.header-logo {
   font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -32,42 +32,42 @@ body {
   letter-spacing: 0.03em;
   color: var(--title-color);
 }
-.Header-logo span {
+.header-logo span {
   color: var(--alternaive-color);
 }
-.Header-list {
+.header-list {
 }
-.Header-list-item {
+.header-list-item {
 }
-.Header-link {
+.header-link {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
   color: var(--title-color);
 }
-.Header-adress-list {
+.header-adress-list {
 }
-.Header-adress-item {
+.header-adress-item {
 }
-.Header-adress-link {
+.header-adress-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
-/**--------------------------------Hero-------------------------------**/
+/**--------------------------------hero-------------------------------**/
 
-.Hero {
+.hero {
 }
-.Hero-header {
+.hero-header {
   color: var(--white, #fff);
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
 }
-.Hero-btn {
+.hero-btn {
   color: var(--white, #fff);
   font-size: 16px;
   font-family: inherit;
@@ -76,69 +76,69 @@ body {
   letter-spacing: 0.64px;
 }
 
-/**--------------------------------Studio--------------------------------**/
+/**--------------------------------studio--------------------------------**/
 
-.Studio {
+.studio {
 }
-.Studio-list {
+.studio-list {
 }
-.Studio-list-item {
+.studio-list-item {
 }
-.Studio-list-header {
+.studio-list-header {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
   color: var(--title-color);
 }
-.Studio-list-text {
+.studio-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
-/**----------------------------------Portfolio----------------------------**/
-.Portfolio {
+/**----------------------------------portfolio----------------------------**/
+.portfolio {
 }
-.Portfolio-header {
+.portfolio-header {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.72px;
   color: var(--title-color);
 }
-.Portfolio-list {
+.portfolio-list {
 }
-.Portfolio-list-item {
+.portfolio-list-item {
 }
-.Portfolio-img {
+.portfolio-img {
 }
 
-/**----------------------------------Contacts--------------------------------**/
+/**----------------------------------contacts--------------------------------**/
 
-.Contacts {
+.contacts {
 }
-.Contacts-header {
+.contacts-header {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.72px;
   color: var(--title-color);
 }
-.Contacts-list {
+.contacts-list {
 }
-.Contacts-list-item {
+.contacts-list-item {
 }
-.Contacts-img {
+.contacts-img {
 }
-.Contacts-list-header {
+.contacts-list-header {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
   color: var(--title-color);
 }
-.Contacts-text {
+.contacts-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
@@ -146,9 +146,9 @@ body {
 
 /**-----------------------------footer----------------------------------------**/
 
-.Footer {
+.footer {
 }
-.Footer-logo {
+.footer-logo {
   color: var(--cloud, #f4f4fd);
   font-size: 18px;
   font-family: Raleway;
@@ -156,10 +156,10 @@ body {
   line-height: 1.07;
   letter-spacing: 0.54px;
 }
-.Footer-logo span {
+.footer-logo span {
   color: var(--alternaive-color);
 }
-.Footer-text {
+.footer-text {
   color: var(--cloud, #f4f4fd);
   font-size: 16px;
   line-height: 1.5;
@@ -173,6 +173,15 @@ body {
 .Examples-list {
 }
 .Examples-list-item {
+}
+.Examples-text-button {
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--alternaive-color);
+  background-color: #f4f4fd;
 }
 .Examples-text {
   font-size: 16px;
@@ -191,22 +200,22 @@ body {
 }
 
 /**--------------------------------------------Main photos-----------------------**/
-.Options {
+.options {
 }
-.Options-list {
+.options-list {
 }
-.Options-list-item {
+.options-list-item {
 }
-.Options-img {
+.options-img {
 }
-.Options-list-header {
+.options-list-header {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
   color: var(--title-color);
 }
-.Options-list-text {
+.options-list-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
