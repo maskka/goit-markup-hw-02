@@ -1,7 +1,6 @@
 :root {
   --title-color: #2e2f42;
   --alternaive-color: #4d5ae5;
-  --text-color: #434455;
 }
 a {
   text-decoration-line: none;
@@ -14,7 +13,9 @@ li {
 }
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 /**-------------------------------Header-----------------------------------**/
@@ -25,10 +26,10 @@ body {
 }
 .Header-logo {
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
-  line-height: 1.16;
-  letter-spacing: 0.54px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   color: var(--title-color);
 }
 .Header-logo span {
@@ -53,7 +54,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  color: var(--text-color);
 }
 
 /**--------------------------------Hero-------------------------------**/
@@ -95,7 +95,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  color: var(--text-color);
 }
 
 /**----------------------------------Portfolio----------------------------**/
@@ -143,7 +142,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  color: var(--text-color);
 }
 
 /**-----------------------------footer----------------------------------------**/
@@ -212,5 +210,4 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  color: var(--text-color);
 }
