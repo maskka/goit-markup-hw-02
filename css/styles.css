@@ -2,6 +2,12 @@
   --title-color: #2e2f42;
   --alternaive-color: #4d5ae5;
 }
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 a {
   text-decoration-line: none;
 }
@@ -10,12 +16,6 @@ ul {
 }
 li {
   list-style-type: none;
-}
-
-body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
 }
 
 /**-------------------------------header-----------------------------------**/
