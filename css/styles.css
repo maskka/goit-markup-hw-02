@@ -154,7 +154,7 @@ li {
   letter-spacing: 0.54px;
 }
 .footer-logo span {
-  color: var(--alternaive-color);
+  color: #f4f4fd;
 }
 .footer-text {
   color: var(--cloud, #f4f4fd);
