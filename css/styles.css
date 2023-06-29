@@ -10,8 +10,8 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: var(--primary-white);
-  color: var(--primary-slate);
+  color: #434455
+  background-color: #FFFFFF;
 }
 
 /* Header */
